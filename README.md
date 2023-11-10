@@ -8,7 +8,7 @@ I have been working hard to learn English recently, through Duolingo and Don’t
 
 ### 🤔 Hack the box badge
 
-[![shihan](https://www.hackthebox.com/badge/image/1705469)](https://www.hackthebox.com/home/users/profile/1705469)
+[![shihan](https://www.hackthebox.com/badge/image/1705469)](https://app.hackthebox.com/profile/1705469)
 
 ### 🔨 Language and tools
 
