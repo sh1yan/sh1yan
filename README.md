@@ -4,7 +4,7 @@ I have been working hard to learn English recently, through Duolingo and Don’t
 
 - 💬 Blog: [sh1yan.top](https://sh1yan.top/)
 - 💬 Info: Gopher & Pythonista & Party B Infosec Engineer & Hack the box cracking enthusiasts
-- 🌟 Cert: HTB CPTS certified
+- 🌟 Cert: HTB CPTS Certified
 - 💬 State: Offensive Security Learners
 - 💬 Addr: Zhengzhou
 
