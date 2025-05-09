@@ -22,5 +22,6 @@ I have been working hard to learn English recently, through Duolingo and Don’t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![burp](https://camo.githubusercontent.com/3fe19c163aa55e7cc726050226cb88434de7bd1929286f3cbd3b6eb13ba102f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646363633333f7374796c653d666f722d7468652d6261646765266c6f676f3d627572702d737569746526636f6c6f723d303030303030)
+![CobaltStrike-5D83AC](https://github.com/user-attachments/assets/cceabd99-bdfa-4789-bbc2-5cda76cca18f)
 ![msf](https://camo.githubusercontent.com/b24649eb68c6ab906d91559cb64c7ae6d188c264a15b58015eeaa1da4528f4ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d65746173706c6f69742d3030384338433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d65746173706c6f697426636f6c6f723d303030303030)
 ![obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian)
