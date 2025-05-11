@@ -22,6 +22,6 @@ I have been working hard to learn English recently, through Duolingo and Don’t
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![burp](https://img.shields.io/badge/-burp%20suite-000000?style=for-the-badge&logo=burpsuite)
-![CobaltStrike-5D83AC](https://github.com/user-attachments/assets/cceabd99-bdfa-4789-bbc2-5cda76cca18f)
+![CobaltStrike](https://sh1yan.top/photo/github-tubiao/CobaltStrike.svg)
 ![msf](https://img.shields.io/badge/-metasploit-000000?style=for-the-badge&logo=metasploit)
 ![obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian)
