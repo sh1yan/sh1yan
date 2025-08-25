@@ -25,3 +25,6 @@ I have been working hard to learn English recently, through [Duolingo](https://w
 ![CobaltStrike](https://sh1yan.top/photo/github-tubiao/CobaltStrike.svg)
 ![msf](https://img.shields.io/badge/-metasploit-000000?style=for-the-badge&logo=metasploit)
 ![obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=for-the-badge&logo=obsidian)
+![Quake](https://sh1yan.top/photo/github-tubiao/Quake.svg)
+![yuanbao](https://sh1yan.top/photo/github-tubiao/yuanbao.svg)
+![kimi](https://sh1yan.top/photo/github-tubiao/kimi.svg)
