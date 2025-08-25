@@ -1,6 +1,6 @@
 ### Hi there 👋 I am shiyan
 
-I have been working hard to learn English recently, through Duolingo and Don’t memorize words. At the same time, I discovered an online practical shooting range for network security and fell deeply into it. I hope that I can become A red team player in the style of a sweeping monk, although my current job as a data analyst has basically nothing to do with penetration testing😄, I firmly believe that if I have direction and motivation, I will always succeed. 🌱
+I have been working hard to learn English recently, through [Duolingo](https://www.duolingo.com/) and [Don’t memorize words](https://www.bbdc.cn/index). At the same time, I discovered an [online practical shooting range for network security](https://www.hackthebox.com/) and fell deeply into it. I hope that I can become A red team player in the style of a sweeping monk, although my current job as a data analyst has basically nothing to do with penetration testing😄, I firmly believe that if I have direction and motivation, I will always succeed. 🌱
 
 - 💬 Blog: [sh1yan.top](https://sh1yan.top/)
 - 💬 Info: Gopher & Pythonista & Party B Infosec Engineer & Hack the box cracking enthusiasts
