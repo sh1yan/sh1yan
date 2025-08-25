@@ -4,13 +4,13 @@ I have been working hard to learn English recently, through Duolingo and Don’t
 
 - 💬 Blog: [sh1yan.top](https://sh1yan.top/)
 - 💬 Info: Gopher & Pythonista & Party B Infosec Engineer & Hack the box cracking enthusiasts
-- 🌟 Cert: HTB CPTS Certified
+- 🌟 Cert: [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [NISP](https://www.itsec.gov.cn/ryzc/rsqsxz/nisp/201707/t20170712_14918.html)
 - 💬 State: Preparing for the CISSP certification
 - 💬 Addr: Zhengzhou
 
 ### 🤔 Hack the box badge
 
-[![shihan](https://www.hackthebox.com/badge/image/1705469)](https://app.hackthebox.com/profile/1705469)  <img src="https://sh1yan.top/photo/htb-cpts-tubiao.png" alt="cpts-tubiao" height="51"> <img src="https://academy.hackthebox.com/storage/exam_overview_banners/Fpoo8YaykR3341XtswrcmuyLNcAK6bZ1WF86Ro6v.png" alt="cpts-beijing" height="51">
+[![shihan](https://www.hackthebox.com/badge/image/1705469)](https://app.hackthebox.com/profile/1705469)
 
 ### 🔨 Language and tools
 
