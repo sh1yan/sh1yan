@@ -4,7 +4,7 @@ I have been working hard to learn English recently, through [Duolingo](https://w
 
 - 💬 Blog: [sh1yan.top](https://sh1yan.top/)
 - 💬 Info: Gopher & Pythonista & Party B Infosec Engineer & Hack the box cracking enthusiasts
-- 🌟 Cert: [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [CRTO](https://www.zeropointsecurity.co.uk/course/red-team-ops) | [CISP](https://baike.baidu.com/item/%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%91%98/2530094?fromtitle=CISP&fromid=1438639) | [NISP](https://baike.baidu.com/item/NISP%E4%B8%80%E7%BA%A7%EF%BC%88%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%EF%BC%89%E8%AF%81%E4%B9%A6)
+- 🌟 Cert: [HTB CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [CRTO](https://www.zeropointsecurity.co.uk/course/red-team-ops) | [CISP](https://baike.baidu.com/item/%E6%B3%A8%E5%86%8C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%91%98/2530094?fromtitle=CISP&fromid=1438639) | [NISP](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95)
 - 💬 State: Preparing for the CISSP certification
 - 💬 Addr: Zhengzhou
 
